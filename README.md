@@ -32,11 +32,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+We're off to a good start!
 
 ## License
 
-    Copyright [2018] [Matthew Compton]
+    Copyright 2018 Matthew Compton
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
